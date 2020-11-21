@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f957068b815aa9a8c68a8e8b9f9a35d",
+    "revision": "6ad6db7ab299c564049964f3095fcc4d",
     "url": "/lre12.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lre12.github.io/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "5a9efed1ba88180d9869",
+    "revision": "39462234df0b8cddd94e",
     "url": "/lre12.github.io/static/css/main.ecfd8dfe.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lre12.github.io/static/js/2.418b646e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a9efed1ba88180d9869",
-    "url": "/lre12.github.io/static/js/main.58b9b5a1.chunk.js"
+    "revision": "39462234df0b8cddd94e",
+    "url": "/lre12.github.io/static/js/main.d9846ab9.chunk.js"
   },
   {
     "revision": "916e8c57901b10b8b888",
